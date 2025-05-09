@@ -9,6 +9,4 @@ GachaGame is a pixel-art-inspired auto-battler RPG built using Flutter. It featu
 
 Ideal for fans of gacha mechanics, idle battlers, or developers interested in building games with Flutter.
 
-Copyright (c) 2025 Noah Semih Topuz
-
 
