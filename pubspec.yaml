@@ -1,0 +1,17 @@
+name: gear_roller_auto_battler
+description: A gear-rolling auto-battler with escalating mobs and damage indicators.
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  uuid: ^3.0.6
+  google_fonts: ^4.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
